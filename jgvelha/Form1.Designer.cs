@@ -43,6 +43,7 @@
             // b11
             // 
             b11.BackColor = Color.Thistle;
+            b11.Font = new Font("Showcard Gothic", 22.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             b11.Location = new Point(23, 23);
             b11.Name = "b11";
             b11.Size = new Size(100, 100);
@@ -53,6 +54,7 @@
             // b12
             // 
             b12.BackColor = Color.Thistle;
+            b12.Font = new Font("Showcard Gothic", 22.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             b12.Location = new Point(129, 23);
             b12.Name = "b12";
             b12.Size = new Size(100, 100);
@@ -62,6 +64,7 @@
             // b13
             // 
             b13.BackColor = Color.Thistle;
+            b13.Font = new Font("Showcard Gothic", 22.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             b13.Location = new Point(235, 23);
             b13.Name = "b13";
             b13.Size = new Size(100, 100);
@@ -71,6 +74,7 @@
             // b21
             // 
             b21.BackColor = Color.Thistle;
+            b21.Font = new Font("Showcard Gothic", 22.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             b21.Location = new Point(23, 129);
             b21.Name = "b21";
             b21.Size = new Size(100, 100);
@@ -80,6 +84,7 @@
             // b22
             // 
             b22.BackColor = Color.Thistle;
+            b22.Font = new Font("Showcard Gothic", 22.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             b22.Location = new Point(129, 129);
             b22.Name = "b22";
             b22.Size = new Size(100, 100);
@@ -89,6 +94,7 @@
             // b23
             // 
             b23.BackColor = Color.Thistle;
+            b23.Font = new Font("Showcard Gothic", 22.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             b23.Location = new Point(235, 129);
             b23.Name = "b23";
             b23.Size = new Size(100, 100);
@@ -98,6 +104,7 @@
             // b31
             // 
             b31.BackColor = Color.Thistle;
+            b31.Font = new Font("Showcard Gothic", 22.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             b31.Location = new Point(23, 235);
             b31.Name = "b31";
             b31.Size = new Size(100, 100);
@@ -107,6 +114,7 @@
             // b32
             // 
             b32.BackColor = Color.Thistle;
+            b32.Font = new Font("Showcard Gothic", 22.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             b32.Location = new Point(129, 235);
             b32.Name = "b32";
             b32.Size = new Size(100, 100);
@@ -116,6 +124,7 @@
             // b33
             // 
             b33.BackColor = Color.Thistle;
+            b33.Font = new Font("Showcard Gothic", 22.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             b33.Location = new Point(235, 235);
             b33.Name = "b33";
             b33.Size = new Size(100, 100);
